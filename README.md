@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vertile-ai-next-mcp-server-badge.png)](https://mseep.ai/app/vertile-ai-next-mcp-server)
+
 # Next.js MCP Server
 
 ## Demo
